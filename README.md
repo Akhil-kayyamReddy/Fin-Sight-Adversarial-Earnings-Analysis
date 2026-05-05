@@ -162,15 +162,3 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 💼 Resume Highlight
-
-> Built a multi-agent AI system using RAG and LangGraph to analyze SEC 10-K filings, generating evidence-based financial insights through adversarial reasoning and API deployment.
-
----
-
-## 👤 Author
-
-**Your Name**
-GitHub: https://github.com/your-username
-
----
