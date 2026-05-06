@@ -1,2 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+finsight_env/
+venv/
+
+# Environment variables
 .env
 
+# Data folder
+data/
+
+# VS Code settings
+.vscode/
